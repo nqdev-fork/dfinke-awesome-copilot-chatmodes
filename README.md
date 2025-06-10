@@ -1,6 +1,8 @@
 # 🧠 Awesome Copilot Chat Modes
 
-[![Follow Doug Finke on LinkedIn](https://img.shields.io/badge/Follow-Doug%20Finke%20on%20LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/douglasfinke) [![Follow Doug Finke on X](https://img.shields.io/badge/Follow-Doug%20Finke%20on%20X-black?logo=x&style=flat-square)](https://x.com/dfinke) [![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/dougfinke/videos)
+[![Follow Doug Finke on LinkedIn](https://img.shields.io/badge/Follow-Doug%20Finke%20on%20LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/douglasfinke) [![Follow Doug Finke on X](https://img.shields.io/badge/Follow-Doug%20Finke%20on%20X-black?logo=x&style=flat-square)](https://x.com/dfinke)
+
+[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-YouTube-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/dougfinke/videos)
 
 
 A curated collection of custom `chatMode.md` files for VS Code — supercharge your workflows with specialized AI personas.
