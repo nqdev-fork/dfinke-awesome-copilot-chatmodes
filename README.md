@@ -15,6 +15,24 @@ Copilot Chat Modes are a powerful way to customize the behavior of Copilot Chat 
 
 ## Featured Chat Modes
 
+### Dashboards
+- [Dashboard Bot](chatmodes/dashboards/Dashboard-bot.chatmode.md) - Specialized chat mode for dashboard creation and analysis
+
+### Explainers
+- [Explainer](chatmodes/explainers/Explainer.chatmode.md) - Chat mode focused on explaining complex concepts and code
+
+### Prompts
+- [Prompt Designer](chatmodes/prompts/Prompt%20Designer.chatmode.md) - Assistant for creating and refining AI prompts
+
+### Quality
+- [Clean Code](chatmodes/quality/Clean-Code.chatmode.md) - Chat mode for improving code quality and maintainability
+
+### Security
+- [Security Scout](chatmodes/security/Security-Scout.chatmode.md) - Security-focused chat mode for code analysis and best practices
+
+### Testing
+- [Test Writer](chatmodes/testing/Test-Writer.chatmode.md) - Specialized assistant for writing and improving tests
+
 ## Getting Started
 
 ## Contributing to Open Source
