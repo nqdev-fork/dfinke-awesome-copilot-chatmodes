@@ -1,4 +1,4 @@
-## 🧠 Awesome Copilot Chat Modes
+# 🧠 Awesome Copilot Chat Modes
 
 |||
 |-|-|
@@ -12,6 +12,10 @@ Works with Copilot Chat in VS Code (Insiders).
 ## Why Awesome Copilot Chat Modes?
 
 Copilot Chat Modes are a powerful way to customize the behavior of Copilot Chat in VS Code. By creating a `chatMode.md` file, you can define a specific persona or role for Copilot Chat to adopt, tailoring its responses to fit your needs.
+
+- Discover easy, ready-to-use chat modes that enhance your coding experience, improve productivity, and help you tackle specific tasks more effectively.
+- Learn how to create your own custom chat modes to suit your unique workflows and preferences.
+- Contribute to the community by sharing your own chat modes and benefiting from the collective knowledge of other prompt engineers.
 
 ## Featured Chat Modes
 
@@ -33,11 +37,9 @@ Copilot Chat Modes are a powerful way to customize the behavior of Copilot Chat 
 ### Testing
 - [Test Writer](chatmodes/testing/Test-Writer.chatmode.md) - Specialized assistant for writing and improving tests
 
-## Getting Started
-
 ## Contributing to Open Source
 
 Contributions are welcome! If you have a custom chat mode you'd like to share, please submit a pull request.
 
 ----
-🌟 Don’t miss out on future updates! Star the repo now and be the first to know about new and exciting LLM apps with RAG and AI Agents.
+🌟 Don’t miss out on future updates! Star the repo now and be the first to know about new and exciting chatmodes for VS Code.
