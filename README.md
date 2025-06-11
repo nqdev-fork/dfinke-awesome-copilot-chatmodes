@@ -33,9 +33,14 @@ To use any of these custom chat modes:
 4. Click the dropdown menu at the bottom of the chat panel
 5. Select your custom chat mode from the list
 
-<div  style="margin-left: 155px;">
-    <img src="assets/vscode-custom-mode-selection.png" alt="VS Code custom mode selection" width="150"/>
-</div>
+<table>
+  <tr>
+    <td></td>  <!-- Empty cell for offset -->
+    <td></td>  <!-- Empty cell for offset -->
+    <td></td>  <!-- Empty cell for offset -->
+    <td><img src="assets/vscode-custom-mode-selection.png" width=150></td>
+  </tr>
+</table>
 
 The chat mode will now be active, and Copilot Chat will respond according to the persona and instructions defined in the chosen `.chatmode.md` file.
 
