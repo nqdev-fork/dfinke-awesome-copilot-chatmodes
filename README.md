@@ -39,23 +39,23 @@ The chat mode will now be active, and Copilot Chat will respond according to the
 
 ## Featured Chat Modes
 
+### Code Quality
+- [Clean Code](chatmodes/code_quality/clean-code) - Chat mode for writing and maintaining clean, efficient code
+
 ### Dashboards
-- [Dashboard Raw Data](chatmodes/dashboards/dashboard-raw-data/dashboard-raw-data/dashboard-raw-data.chatmode.md) - Specialized chat mode for dashboard creation and analysis
+- [Dashboard Raw Data](chatmodes/dashboards/dashboard-raw-data/dashboard-raw-data) - Specialized chat mode for dashboard creation and analysis
 
 ### Explainers
-- [Explainer](chatmodes/explainers/explainer/explainer.chatmode.md) - Chat mode focused on explaining complex concepts and code
+- [Explainer](chatmodes/explainers/explainer) - Chat mode focused on explaining complex concepts and code
 
 ### Prompts
-- [Prompt Designer](chatmodes/prompts/prompt-designer/prompt-designer.chatmode.md) - Assistant for creating and refining AI prompts
-
-### Code Quality
-- [Clean Code](chatmodes/code_quality/clean-code/clean-code.chatmode.md) - Chat mode for improving code quality and maintainability
+- [Prompt Designer](chatmodes/prompts/prompt-designer) - Assistant for creating and refining AI prompts
 
 ### Security
-- [Security Scout](chatmodes/security/security-scout/security-scout.chatmode.md) - Security-focused chat mode for code analysis and best practices
+- [Security Scout](chatmodes/security/security-scout) - Chat mode focused on identifying and addressing security concerns
 
 ### Testing
-- [Test Writer](chatmodes/testing/test-writer/test-writer.chatmode.md) - Specialized assistant for writing and improving tests
+- [Test Writer](chatmodes/testing/test-writer) - Assistant for writing and maintaining tests
 
 ## Contributing to Open Source
 
