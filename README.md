@@ -34,7 +34,7 @@ To use any of these custom chat modes:
 5. Select your custom chat mode from the list
 
 <table style="border: none;">
-  <tr>
+  <tr style="border: none;">
     <td style="border: none;"></td>  <!-- Empty cell for offset -->
     <td style="border: none;"></td>  <!-- Empty cell for offset -->
     <td style="border: none;"></td>  <!-- Empty cell for offset -->
