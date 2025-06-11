@@ -33,7 +33,7 @@ To use any of these custom chat modes:
 4. Click the dropdown menu at the bottom of the chat panel
 5. Select your custom chat mode from the list
 
-<div  style="margin-left: 55px;">
+<div  style="margin-left: 155px;">
     <img src="assets/vscode-custom-mode-selection.png" alt="VS Code custom mode selection" width="150"/>
 </div>
 
