@@ -33,12 +33,12 @@ To use any of these custom chat modes:
 4. Click the dropdown menu at the bottom of the chat panel
 5. Select your custom chat mode from the list
 
-<table>
+<table style="border: none;">
   <tr>
-    <td></td>  <!-- Empty cell for offset -->
-    <td></td>  <!-- Empty cell for offset -->
-    <td></td>  <!-- Empty cell for offset -->
-    <td><img src="assets/vscode-custom-mode-selection.png" width=150></td>
+    <td style="border: none;"></td>  <!-- Empty cell for offset -->
+    <td style="border: none;"></td>  <!-- Empty cell for offset -->
+    <td style="border: none;"></td>  <!-- Empty cell for offset -->
+    <td style="border: none;"><img src="assets/vscode-custom-mode-selection.png" width=150></td>
   </tr>
 </table>
 
