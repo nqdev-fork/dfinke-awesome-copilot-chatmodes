@@ -33,9 +33,9 @@ To use any of these custom chat modes:
 4. Click the dropdown menu at the bottom of the chat panel
 5. Select your custom chat mode from the list
 
-<p align="center">
+<div  style="margin-left: 55px;">
     <img src="assets/vscode-custom-mode-selection.png" alt="VS Code custom mode selection" width="150"/>
-</p>
+</div>
 
 The chat mode will now be active, and Copilot Chat will respond according to the persona and instructions defined in the chosen `.chatmode.md` file.
 
