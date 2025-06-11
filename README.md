@@ -26,22 +26,22 @@ Copilot Chat Modes are a powerful way to customize the behavior of Copilot Chat 
 ## Featured Chat Modes
 
 ### Dashboards
-- [Dashboard Bot](chatmodes/dashboards/Dashboard-bot.chatmode.md) - Specialized chat mode for dashboard creation and analysis
+- [Dashboard Raw Data](chatmodes/dashboards/dashboard-raw-data/dashboard-raw-data/dashboard-raw-data.chatmode.md) - Specialized chat mode for dashboard creation and analysis
 
 ### Explainers
-- [Explainer](chatmodes/explainers/Explainer.chatmode.md) - Chat mode focused on explaining complex concepts and code
+- [Explainer](chatmodes/explainers/explainer/explainer.chatmode.md) - Chat mode focused on explaining complex concepts and code
 
 ### Prompts
-- [Prompt Designer](chatmodes/prompts/Prompt%20Designer.chatmode.md) - Assistant for creating and refining AI prompts
+- [Prompt Designer](chatmodes/prompts/prompt-designer/prompt-designer.chatmode.md) - Assistant for creating and refining AI prompts
 
-### Quality
-- [Clean Code](chatmodes/quality/Clean-Code.chatmode.md) - Chat mode for improving code quality and maintainability
+### Code Quality
+- [Clean Code](chatmodes/code_quality/clean-code/clean-code.chatmode.md) - Chat mode for improving code quality and maintainability
 
 ### Security
-- [Security Scout](chatmodes/security/Security-Scout.chatmode.md) - Security-focused chat mode for code analysis and best practices
+- [Security Scout](chatmodes/security/security-scout/security-scout.chatmode.md) - Security-focused chat mode for code analysis and best practices
 
 ### Testing
-- [Test Writer](chatmodes/testing/Test-Writer.chatmode.md) - Specialized assistant for writing and improving tests
+- [Test Writer](chatmodes/testing/test-writer/test-writer.chatmode.md) - Specialized assistant for writing and improving tests
 
 ## Contributing to Open Source
 
