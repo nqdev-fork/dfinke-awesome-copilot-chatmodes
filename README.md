@@ -23,6 +23,22 @@ Copilot Chat Modes are a powerful way to customize the behavior of Copilot Chat 
 - [GitHub Copilot Chat - Getting Started](https://docs.github.com/en/copilot/github-copilot-chat/getting-started-with-github-copilot-chat)
 - For updates on Copilot Chat Modes and customizing personas, check the [GitHub Copilot Blog](https://github.blog/tag/copilot/) and [VS Code Insider Release Notes](https://code.visualstudio.com/insiders/).
 
+## Getting Started
+
+To use any of these custom chat modes:
+
+1. Create a `.github/chatmodes` directory in your VS Code workspace
+2. Copy the desired `.chatmode.md` file from this repository to that directory
+3. Open the Copilot Chat panel in VS Code
+4. Click the dropdown menu at the bottom of the chat panel
+5. Select your custom chat mode from the list
+
+<p align="center">
+    <img src="assets/vscode-custom-mode-selection.png" alt="VS Code custom mode selection" width="150"/>
+</p>
+
+The chat mode will now be active, and Copilot Chat will respond according to the persona and instructions defined in the chosen `.chatmode.md` file.
+
 ## Featured Chat Modes
 
 ### Dashboards
