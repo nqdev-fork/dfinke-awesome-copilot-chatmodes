@@ -19,9 +19,7 @@ Copilot Chat Modes are a powerful way to customize the behavior of Copilot Chat 
 
 ## Official Documentation
 
-- [GitHub Copilot in VS Code - Getting Started](https://docs.github.com/en/copilot/github-copilot-in-the-editor/getting-started-with-github-copilot-in-visual-studio-code)
-- [GitHub Copilot Chat - Getting Started](https://docs.github.com/en/copilot/github-copilot-chat/getting-started-with-github-copilot-chat)
-- For updates on Copilot Chat Modes and customizing personas, check the [GitHub Copilot Blog](https://github.blog/tag/copilot/) and [VS Code Insider Release Notes](https://code.visualstudio.com/insiders/).
+- [Chat mode file example](https://code.visualstudio.com/docs/copilot/chat/chat-modes#_chat-mode-file-example)
 
 ## Getting Started
 
