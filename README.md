@@ -26,10 +26,12 @@ Copilot Chat Modes are a powerful way to customize the behavior of Copilot Chat 
 To use any of these custom chat modes:
 
 1. Create a `.github/chatmodes` directory in your VS Code workspace
-2. Copy the desired `.chatmode.md` file from this repository to that directory
-3. Open the Copilot Chat panel in VS Code
-4. Click the dropdown menu at the bottom of the chat panel
-5. Select your custom chat mode from the list
+1. Copy the desired `.chatmode.md` file from this repository to that directory
+1. Restart VS Code to load the new chat mode 
+1. Open the Copilot Chat panel in VS Code
+1. Start chatting with Copilot Chat in the context of your selected mode
+1. Click the dropdown menu at the bottom of the chat panel
+1. Select your custom chat mode from the list
 
 <img src="assets/vscode-custom-mode-selection.png" width=150>
 
