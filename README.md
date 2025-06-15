@@ -55,6 +55,9 @@ The chat mode will now be active, and Copilot Chat will respond according to the
 ### Testing
 - [Test Writer](chatmodes/testing/test-writer) - Assistant for writing and maintaining tests
 
+### Scripting
+- [PowerShell](chatmodes/scripting/powershell) - Chat mode for PowerShell scripting, automation, and debugging
+
 ## Contributing to Open Source
 
 Contributions are welcome! If you have a custom chat mode you'd like to share, please submit a pull request.
