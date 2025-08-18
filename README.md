@@ -23,42 +23,31 @@ Copilot Chat Modes are a powerful way to customize the behavior of Copilot Chat 
 
 ## Getting Started
 
+
 To use any of these custom chat modes:
 
-1. Create a `.github/chatmodes` directory in your VS Code workspace
-1. Copy the desired `.chatmode.md` file from this repository to that directory
-1. Restart VS Code to load the new chat mode 
-1. Open the Copilot Chat panel in VS Code
-1. Start chatting with Copilot Chat in the context of your selected mode
-1. Click the dropdown menu at the bottom of the chat panel
-1. Select your custom chat mode from the list
+1. Copy the desired `.chatmode.md` file from the `/chatmodes` directory in this repository to your workspace's `.github/chatmodes` directory (create it if it doesn't exist).
+2. Restart VS Code to load the new chat mode.
+3. Open the Copilot Chat panel in VS Code.
+4. Click the dropdown menu at the bottom of the chat panel and select your custom chat mode from the list.
 
 <img src="assets/vscode-custom-mode-selection.png" width=150>
 
 The chat mode will now be active, and Copilot Chat will respond according to the persona and instructions defined in the chosen `.chatmode.md` file.
 
-## Featured Chat Modes
 
-### Code Quality
-- [Clean Code](chatmodes/code_quality/clean-code) - Chat mode for writing and maintaining clean, efficient code
+## Available Chat Modes
 
-### Dashboards
-- [Dashboard Raw Data](chatmodes/dashboards/dashboard-raw-data/dashboard-raw-data) - Specialized chat mode for dashboard creation and analysis
-
-### Explainers
-- [Explainer](chatmodes/explainers/explainer) - Chat mode focused on explaining complex concepts and code
-
-### Prompts
-- [Prompt Designer](chatmodes/prompts/prompt-designer) - Assistant for creating and refining AI prompts
-
-### Security
-- [Security Scout](chatmodes/security/security-scout) - Chat mode focused on identifying and addressing security concerns
-
-### Testing
-- [Test Writer](chatmodes/testing/test-writer) - Assistant for writing and maintaining tests
-
-### Scripting
-- [PowerShell](chatmodes/scripting/powershell) - Chat mode for PowerShell scripting, automation, and debugging
+- [Claude Code System](chatmodes/claude-code-system.chatmode.md) — Claude-inspired code assistant persona
+- [Clean Code](chatmodes/clean-code.chatmode.md) — Chat mode for writing and maintaining clean, efficient code
+- [Dashboard Raw Data](chatmodes/dashboard-raw-data.chatmode.md) — Specialized chat mode for dashboard creation and analysis
+- [Explainer](chatmodes/explainer.chatmode.md) — Chat mode focused on explaining complex concepts and code
+- [GitHub Spark System](chatmodes/github-spark-system.chatmode.md) — GitHub Spark system persona
+- [GPT-5 System](chatmodes/gpt5-system.chatmode.md) — GPT-5 system persona
+- [PowerShell](chatmodes/powershell.chatmode.md) — Chat mode for PowerShell scripting, automation, and debugging
+- [Prompt Designer](chatmodes/prompt-designer.chatmode.md) — Assistant for creating and refining AI prompts
+- [Security Scout](chatmodes/security-scout.chatmode.md) — Chat mode focused on identifying and addressing security concerns
+- [Test Writer](chatmodes/test-writer.chatmode.md) — Assistant for writing and maintaining tests
 
 ## Contributing to Open Source
 
