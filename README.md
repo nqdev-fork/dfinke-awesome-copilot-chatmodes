@@ -49,6 +49,21 @@ The chat mode will now be active, and Copilot Chat will respond according to the
 - [Security Scout](chatmodes/security-scout.chatmode.md) — Chat mode focused on identifying and addressing security concerns
 - [Test Writer](chatmodes/test-writer.chatmode.md) — Assistant for writing and maintaining tests
 
+
+## Chat Modes via Indy Dev Dan
+
+Explore more chat modes from [Indy Dev Dan's Claude Code Hooks Mastery](https://github.com/disler/claude-code-hooks-mastery/tree/main/.claude/output-styles):
+
+- [Bullet Points](chatmodes/bullet-points.chatmode.md) — Outputs responses as clear, concise bullet points
+- [GenUI](chatmodes/genui.chatmode.md) — Generates UI-focused code and explanations
+- [HTML Structured](chatmodes/html-structured.chatmode.md) — Produces HTML-structured output for web contexts
+- [Markdown Focused](chatmodes/markdown-focused.chatmode.md) — Optimized for markdown-formatted answers
+- [Table Based](chatmodes/table-based.chatmode.md) — Presents information in table format
+- [Ultra Concise](chatmodes/ultra-concise.chatmode.md) — Extremely brief, to-the-point responses
+- [YAML Structured](chatmodes/yaml-structured.chatmode.md) — Outputs responses in YAML structure
+
+See the linked repo for the full and latest list of available chat modes.
+
 ## Contributing to Open Source
 
 Contributions are welcome! If you have a custom chat mode you'd like to share, please submit a pull request.
