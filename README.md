@@ -35,34 +35,10 @@ To use any of these custom chat modes:
 
 The chat mode will now be active, and Copilot Chat will respond according to the persona and instructions defined in the chosen `.chatmode.md` file.
 
+## 🧩 Custom Chat Modes
 
-## Available Chat Modes
-
-- [Claude Code System](chatmodes/claude-code-system.chatmode.md) — Claude-inspired code assistant persona
-- [Clean Code](chatmodes/clean-code.chatmode.md) — Chat mode for writing and maintaining clean, efficient code
-- [Dashboard Raw Data](chatmodes/dashboard-raw-data.chatmode.md) — Specialized chat mode for dashboard creation and analysis
-- [Explainer](chatmodes/explainer.chatmode.md) — Chat mode focused on explaining complex concepts and code
-- [GitHub Spark System](chatmodes/github-spark-system.chatmode.md) — GitHub Spark system persona
-- [GPT-5 System](chatmodes/gpt5-system.chatmode.md) — GPT-5 system persona
-- [PowerShell](chatmodes/powershell.chatmode.md) — Chat mode for PowerShell scripting, automation, and debugging
-- [Prompt Designer](chatmodes/prompt-designer.chatmode.md) — Assistant for creating and refining AI prompts
-- [Security Scout](chatmodes/security-scout.chatmode.md) — Chat mode focused on identifying and addressing security concerns
-- [Test Writer](chatmodes/test-writer.chatmode.md) — Assistant for writing and maintaining tests
-
-
-## Chat Modes via Indy Dev Dan
-
-Explore more chat modes from [Indy Dev Dan's Claude Code Hooks Mastery](https://github.com/disler/claude-code-hooks-mastery/tree/main/.claude/output-styles):
-
-- [Bullet Points](chatmodes/bullet-points.chatmode.md) — Outputs responses as clear, concise bullet points
-- [GenUI](chatmodes/genui.chatmode.md) — Generates UI-focused code and explanations
-- [HTML Structured](chatmodes/html-structured.chatmode.md) — Produces HTML-structured output for web contexts
-- [Markdown Focused](chatmodes/markdown-focused.chatmode.md) — Optimized for markdown-formatted answers
-- [Table Based](chatmodes/table-based.chatmode.md) — Presents information in table format
-- [Ultra Concise](chatmodes/ultra-concise.chatmode.md) — Extremely brief, to-the-point responses
-- [YAML Structured](chatmodes/yaml-structured.chatmode.md) — Outputs responses in YAML structure
-
-See the linked repo for the full and latest list of available chat modes.
+Custom chat modes define specific behaviors and tools for GitHub Copilot Chat, enabling enhanced context-aware assistance for particular tasks or workflows.
+> 💡 **Usage**: Create new chat modes using the command `Chat: Configure Chat Modes...`, then switch your chat mode in the Chat input from _Agent_ or _Ask_ to your own mode.
 
 ## Contributing to Open Source
 
